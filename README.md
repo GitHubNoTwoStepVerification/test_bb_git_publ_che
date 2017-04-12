@@ -1,1 +1,6 @@
-# test_bb_git_publ_che
+
+DO NOT delete please
+
+repo for automation
+
+   Thanks :)
